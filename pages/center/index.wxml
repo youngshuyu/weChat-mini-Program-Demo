@@ -1,0 +1,19 @@
+<!--pages/abc/index.wxml-->
+<form>
+  <view class="item">
+    <label>姓名：</label>
+    <input type="text"></input>
+  </view>
+  <view class="item">
+    <label>手机：</label>
+    <input type="text"></input>
+  </view>
+  <view class="item">
+    <label>身份：</label>
+    <input type="text"></input>
+  </view>
+  <view class="item">
+    <label>验证码：</label>
+    <input type="text"></input>
+  </view>
+</form>

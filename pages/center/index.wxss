@@ -1,0 +1,25 @@
+/* pages/center/index.wxss */
+form {
+  display: block;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.item {
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  font-family: FZLTHJW--GB1-0;
+  font-size: 14px;
+  color: #3C3C3C;
+  height: 48px;
+  justify-content: center;
+  align-items: center;
+}
+.item label {
+  width: 60px;
+  text-align: right;
+  margin-right: 5px;
+}
+.item input {
+  flex: 1;
+}
